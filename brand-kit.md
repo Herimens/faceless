@@ -3,8 +3,10 @@ Account: Ramani Hub TZ  |  @ramani.hub.tz  |  WhatsApp: +255 778 681 585
 WhatsApp link: https://wa.me/255778681585
 
 ## Logo + colors
-Files: brand/logo.png (upload to TikTok + WhatsApp), brand/logo.svg (editable).
-Navy #14202B, Gold #F4B23E, White #FFFFFF. Use the same colors on price cards and video text.
+FINAL logo: brand/logo-v4.png (upload to TikTok + WhatsApp), brand/logo-v4.svg (editable, font embedded).
+Wordmark font: Allison (Google Fonts; I believe it is open-licence - verify on its page). Tagline: Inter.
+Colors: Sand #EAE2D4, Charcoal #201B16, Terracotta #B5532D. Use the same colors on price cards and video text.
+Earlier drafts (logo-v1, concept-a/b/c, logo-v3) are kept in brand/ for reference.
 
 ## TikTok bio (max 80 characters - edit freely)
 Option A: Ramani za nyumba, villa & camps | Ready-made & Custom | WhatsApp 👇
