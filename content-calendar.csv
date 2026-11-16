@@ -1,57 +1,57 @@
-date,slot,post_time,phase,series,hook_idea,product_link,video_file,status
-2026-11-17,A,19:00 US-East = 03:00 EAT,1-Test,Gifts for Mom,Gifts under $25 that look expensive,,,DRAFT
-2026-11-17,B,13:00 US-East = 21:00 EAT,1-Test,Gifts for Dad,Stop buying her candles - get this instead,,,DRAFT
-2026-11-18,A,19:00 US-East = 03:00 EAT,1-Test,Gifts for Teens,He will think you spent $100 (you spent $20),,,DRAFT
-2026-11-18,B,13:00 US-East = 21:00 EAT,1-Test,Gifts for Pet Lovers,5 gifts under $15 nobody expects,,,DRAFT
-2026-11-19,A,19:00 US-East = 03:00 EAT,1-Test,Gifts for Him,Stocking stuffers under $10,,,DRAFT
-2026-11-19,B,13:00 US-East = 21:00 EAT,1-Test,Gifts for Her,Gifts that are secretly useful,,,DRAFT
-2026-11-20,A,19:00 US-East = 03:00 EAT,1-Test,Gifts for Mom,Gifts under $25 that look expensive,,,DRAFT
-2026-11-20,B,13:00 US-East = 21:00 EAT,1-Test,Gifts for Dad,Stop buying her candles - get this instead,,,DRAFT
-2026-11-21,A,19:00 US-East = 03:00 EAT,1-Test,Gifts for Teens,He will think you spent $100 (you spent $20),,,DRAFT
-2026-11-21,B,13:00 US-East = 21:00 EAT,1-Test,Gifts for Pet Lovers,5 gifts under $15 nobody expects,,,DRAFT
-2026-11-22,A,19:00 US-East = 03:00 EAT,1-Test,Gifts for Him,Stocking stuffers under $10,,,DRAFT
-2026-11-22,B,13:00 US-East = 21:00 EAT,1-Test,Gifts for Her,Gifts that are secretly useful,,,DRAFT
-2026-11-23,A,19:00 US-East = 03:00 EAT,1-Test,Gifts for Mom,Gifts under $25 that look expensive,,,DRAFT
-2026-11-23,B,13:00 US-East = 21:00 EAT,1-Test,Gifts for Dad,Stop buying her candles - get this instead,,,DRAFT
-2026-11-24,A,19:00 US-East = 03:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Cyber Monday last-chance finds,,,DRAFT
-2026-11-24,B,13:00 US-East = 21:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Black Friday deals actually worth it,,,DRAFT
-2026-11-25,A,19:00 US-East = 03:00 EAT,2-BlackFriday/CyberMonday,Deal alert,"Skip these, buy these Black Friday",,,DRAFT
-2026-11-25,B,13:00 US-East = 21:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Cyber Monday last-chance finds,,,DRAFT
-2026-11-26,A,19:00 US-East = 03:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Black Friday deals actually worth it,,,DRAFT
-2026-11-26,B,13:00 US-East = 21:00 EAT,2-BlackFriday/CyberMonday,Deal alert,"Skip these, buy these Black Friday",,,DRAFT
-2026-11-27,A,19:00 US-East = 03:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Cyber Monday last-chance finds,,,DRAFT
-2026-11-27,B,13:00 US-East = 21:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Black Friday deals actually worth it,,,DRAFT
-2026-11-28,A,19:00 US-East = 03:00 EAT,2-BlackFriday/CyberMonday,Deal alert,"Skip these, buy these Black Friday",,,DRAFT
-2026-11-28,B,13:00 US-East = 21:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Cyber Monday last-chance finds,,,DRAFT
-2026-11-29,A,19:00 US-East = 03:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Black Friday deals actually worth it,,,DRAFT
-2026-11-29,B,13:00 US-East = 21:00 EAT,2-BlackFriday/CyberMonday,Deal alert,"Skip these, buy these Black Friday",,,DRAFT
-2026-11-30,A,19:00 US-East = 03:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Cyber Monday last-chance finds,,,DRAFT
-2026-11-30,B,13:00 US-East = 21:00 EAT,2-BlackFriday/CyberMonday,Deal alert,Black Friday deals actually worth it,,,DRAFT
-2026-12-01,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Him,Gifts under $20 for coworkers,,,DRAFT
-2026-12-01,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Her,Best gifts for Her,,,DRAFT
-2026-12-02,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Mom,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-02,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Dad,Gifts under $20 for coworkers,,,DRAFT
-2026-12-03,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Teens,Best gifts for Teens,,,DRAFT
-2026-12-03,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Pet Lovers,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-04,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Him,Gifts under $20 for coworkers,,,DRAFT
-2026-12-04,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Her,Best gifts for Her,,,DRAFT
-2026-12-05,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Mom,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-05,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Dad,Gifts under $20 for coworkers,,,DRAFT
-2026-12-06,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Teens,Best gifts for Teens,,,DRAFT
-2026-12-06,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Pet Lovers,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-07,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Him,Gifts under $20 for coworkers,,,DRAFT
-2026-12-07,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Her,Best gifts for Her,,,DRAFT
-2026-12-08,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Mom,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-08,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Dad,Gifts under $20 for coworkers,,,DRAFT
-2026-12-09,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Teens,Best gifts for Teens,,,DRAFT
-2026-12-09,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Pet Lovers,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-10,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Him,Gifts under $20 for coworkers,,,DRAFT
-2026-12-10,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Her,Best gifts for Her,,,DRAFT
-2026-12-11,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Mom,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-11,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Dad,Gifts under $20 for coworkers,,,DRAFT
-2026-12-12,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Teens,Best gifts for Teens,,,DRAFT
-2026-12-12,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Pet Lovers,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-13,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Him,Gifts under $20 for coworkers,,,DRAFT
-2026-12-13,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Her,Best gifts for Her,,,DRAFT
-2026-12-14,A,19:00 US-East = 03:00 EAT,3-Christmas,Gifts for Mom,Last-minute gifts that still arrive in time,,,DRAFT
-2026-12-14,B,13:00 US-East = 21:00 EAT,3-Christmas,Gifts for Dad,Gifts under $20 for coworkers,,,DRAFT
+date,slot,post_time_EAT,phase,series,hook_sw,what_to_show,price_tzs,video_file,status
+2026-11-17,A,12:00 EAT,1-Test niche (10 videos),Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-11-17,B,19:00 EAT,1-Test niche (10 videos),Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-11-18,A,12:00 EAT,1-Test niche (10 videos),Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-11-18,B,19:00 EAT,1-Test niche (10 videos),Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-11-19,A,12:00 EAT,1-Test niche (10 videos),Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-11-19,B,19:00 EAT,1-Test niche (10 videos),Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-11-20,A,12:00 EAT,1-Test niche (10 videos),Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
+2026-11-20,B,19:00 EAT,1-Test niche (10 videos),Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-11-21,A,12:00 EAT,1-Test niche (10 videos),Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-11-21,B,19:00 EAT,1-Test niche (10 videos),Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-11-22,A,12:00 EAT,1-Test niche (10 videos),Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-11-22,B,19:00 EAT,1-Test niche (10 videos),Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-11-23,A,12:00 EAT,1-Test niche (10 videos),Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-11-23,B,19:00 EAT,1-Test niche (10 videos),Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
+2026-11-24,A,12:00 EAT,2-Double down on winners,Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-11-24,B,19:00 EAT,2-Double down on winners,Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-11-25,A,12:00 EAT,2-Double down on winners,Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-11-25,B,19:00 EAT,2-Double down on winners,Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-11-26,A,12:00 EAT,2-Double down on winners,Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-11-26,B,19:00 EAT,2-Double down on winners,Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-11-27,A,12:00 EAT,2-Double down on winners,Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
+2026-11-27,B,19:00 EAT,2-Double down on winners,Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-11-28,A,12:00 EAT,2-Double down on winners,Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-11-28,B,19:00 EAT,2-Double down on winners,Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-11-29,A,12:00 EAT,2-Double down on winners,Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-11-29,B,19:00 EAT,2-Double down on winners,Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-11-30,A,12:00 EAT,2-Double down on winners,Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-11-30,B,19:00 EAT,2-Double down on winners,Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
+2026-12-01,A,12:00 EAT,2-Double down on winners,Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-12-01,B,19:00 EAT,2-Double down on winners,Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-12-02,A,12:00 EAT,2-Double down on winners,Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-12-02,B,19:00 EAT,2-Double down on winners,Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-12-03,A,12:00 EAT,2-Double down on winners,Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-12-03,B,19:00 EAT,2-Double down on winners,Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-12-04,A,12:00 EAT,2-Double down on winners,Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
+2026-12-04,B,19:00 EAT,2-Double down on winners,Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-12-05,A,12:00 EAT,2-Double down on winners,Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-12-05,B,19:00 EAT,2-Double down on winners,Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-12-06,A,12:00 EAT,2-Double down on winners,Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-12-06,B,19:00 EAT,2-Double down on winners,Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-12-07,A,12:00 EAT,2-Double down on winners,Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-12-07,B,19:00 EAT,2-Double down on winners,Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
+2026-12-08,A,12:00 EAT,3-Year-end push,Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-12-08,B,19:00 EAT,3-Year-end push,Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-12-09,A,12:00 EAT,3-Year-end push,Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-12-09,B,19:00 EAT,3-Year-end push,Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-12-10,A,12:00 EAT,3-Year-end push,Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-12-10,B,19:00 EAT,3-Year-end push,Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-12-11,A,12:00 EAT,3-Year-end push,Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
+2026-12-11,B,19:00 EAT,3-Year-end push,Bei halisi,Unataka [BIDHAA]? Hii ndiyo bei halisi Arusha,Show product + clear price + sizes/options,,,DRAFT
+2026-12-12,A,12:00 EAT,3-Year-end push,Makosa,Makosa 3 unayofanya ukinunua [BIDHAA],"3 quick tips, product footage",,,DRAFT
+2026-12-12,B,19:00 EAT,3-Year-end push,Swali la mteja,Swali la mteja: [SWALI]?,Answer one real customer question,,,DRAFT
+2026-12-13,A,12:00 EAT,3-Year-end push,Kazi iliyokamilika,Kazi ya mteja wetu imekamilika - [MJI],Finished job/delivery clip (get permission),,,DRAFT
+2026-12-13,B,19:00 EAT,3-Year-end push,Tofauti,[BIDHAA] ya bei nafuu vs ya ubora: tofauti ni nini?,"Side-by-side comparison, honest",,,DRAFT
+2026-12-14,A,12:00 EAT,3-Year-end push,Usafirishaji,Tunafikisha mpaka mlangoni - [MJI],Loading/delivery clip + areas covered,,,DRAFT
+2026-12-14,B,19:00 EAT,3-Year-end push,Mwisho wa mwaka,Panga mapema kabla ya sikukuu: [BIDHAA],Season/year-end angle + call to order,,,DRAFT
