@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <rect width="1000" height="1000" fill="#14202B"/>
+  <!-- house outline -->
+  <g fill="none" stroke="#F4B23E" stroke-width="22" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M250 470 L500 250 L750 470"/>
+    <path d="M300 440 V690 H700 V440"/>
+  </g>
+  <!-- floor plan lines inside -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round">
+    <path d="M500 440 V690"/>
+    <path d="M300 565 H500"/>
+    <path d="M500 540 H700"/>
+    <path d="M410 690 V640"/>
+  </g>
+  <!-- door gap accent -->
+  <path d="M590 690 H650" stroke="#14202B" stroke-width="22"/>
+  <text x="500" y="800" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="92" fill="#FFFFFF" letter-spacing="4">RAMANI HUB</text>
+  <text x="500" y="868" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="52" fill="#F4B23E" letter-spacing="14">TZ</text>
+</svg>
