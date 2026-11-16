@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<defs><linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D9A24A"/><stop offset="1" stop-color="#B8642B"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#EFE7DA"/><stop offset="1" stop-color="#DDD0BC"/></linearGradient></defs>
+<rect width="1000" height="1000" fill="url(#bg)"/>
+<path d="M350 560 V400 A150 150 0 0 1 650 400 V560 Z" fill="none" stroke="#1B1B1B" stroke-width="22" stroke-linejoin="round"/>
+<circle cx="585" cy="385" r="26" fill="url(#sun)"/>
+<path d="M395 560 L470 435 L515 505 L565 440 L605 560 Z" fill="#1B1B1B"/>
+<path d="M470 435 L492 472 L452 472 Z" fill="#EFE7DA" opacity=".9"/>
+<path d="M300 560 H700" stroke="#1B1B1B" stroke-width="22" stroke-linecap="round"/>
+<text x="500" y="722" text-anchor="middle" font-family="Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, sans-serif" font-weight="600" font-size="82" fill="#1B1B1B" letter-spacing="18">RAMANI HUB</text>
+<text x="500" y="790" text-anchor="middle" font-family="Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, sans-serif" font-weight="700" font-size="44" fill="#B8642B" letter-spacing="26">TZ</text>
+<text x="500" y="860" text-anchor="middle" font-family="Helvetica Neue, Arial, Liberation Sans, DejaVu Sans, sans-serif" font-weight="500" font-size="26" fill="#5B5246" letter-spacing="10">NYUMBA  ·  VILLA  ·  CAMPS</text>
+</svg>
